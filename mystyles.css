@@ -1,0 +1,46 @@
+/* Sam Robertson 4/20/2020 */
+
+#navBar {
+  width: 100%;
+  height: 50px;
+  justify-content: space-evenly;
+  display: inline-flex;
+  background-color: #161616;
+  
+
+}
+.navLink {
+  text-decoration: none;
+  color: white;
+  padding-top: 10px;
+  font-size: 20px;
+}
+
+.myimage {
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.footerInfo {
+  color: white;
+  
+}
+#otherPortfolio {
+  padding-left: 450px;
+}
+
+
+/* About styles */
+
+#top {
+  background-size: cover;
+  width: 100%;
+  height: 600px;
+  display: inline-flex;
+  align-content: center;
+}
+#myName {
+  color: white;
+}
+
+/* Tableau Styles */
